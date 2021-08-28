@@ -163,3 +163,86 @@ Removes the invite from user context menus.
 
 <br/><br/>
 <br/><br/>
+
+## [Hide Channels](https://github.com/RazerMoon/hidechannels)
+
+Powercord plugin that lets you hide text and voice channels using the context menu.
+
+|                    How To Hide A Channel                     |                       Un-Hide Channels                       |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![Hide Channel - 1](https://user-images.githubusercontent.com/60551230/131223591-ed7e4c18-2ce6-456c-a9e7-76c1e4da9d0d.png) | <img src="https://user-images.githubusercontent.com/60551230/131223669-fbb69927-4032-4e1b-b608-d4feb795e3ab.png" alt="Hide Channel - 2" style="zoom:67%;" /> |
+
+<br/><br/>
+<br/><br/>
+
+## [VC Timer](https://github.com/RazerMoon/vcTimer)
+
+Shows how much time has passed since you joined a voice channel.
+
+<img src="https://user-images.githubusercontent.com/60551230/131224598-55a54afd-32b7-4372-845c-7ef4ac340fb4.png" alt="VC Timer" style="zoom:50%;" />
+
+<br/><br/>
+<br/><br/>
+
+## [Voice User Count](https://github.com/tuanbinhtran/voice-user-count)
+
+This plugin shows the number of users in a voice channel. The number will not be shown when a user limit is active.
+
+<img src="https://user-images.githubusercontent.com/60551230/131224758-405d7cc6-3c8b-4126-8b84-fc5a6a74cf44.png" alt="Voice User Count" style="zoom: 50%;" />
+
+<br/><br/>
+<br/><br/>
+
+## [Twemoji Everywhere](https://github.com/VenPlugs/PowercordTwemojiEverywhere)
+
+Brings twemoji to places not usually themed by it, like the channel list or nicknames.
+
+| Before                                                       | After                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Twemoji Everywhere - Before](https://user-images.githubusercontent.com/60551230/131225026-7d09731d-798e-4a4a-809b-87072fb2a85d.png) | ![Twemoji Everywhere - After](https://user-images.githubusercontent.com/60551230/131225024-2d447e34-e539-4e93-88f4-d74c6761abb3.png) |
+
+<br/><br/>
+<br/><br/>
+
+## [Custom RPC](https://github.com/E-boi/custom-rpc)
+
+Gives you the abilty to have a custom presence that will start when you launch discord. Works with [show-all-activty](https://github.com/Juby210/show-all-activities)
+
+|                           Showcase                           |                           Settings                           |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![Custom RPC - Showcase](https://user-images.githubusercontent.com/60551230/131225626-15613872-2806-4cc2-8e38-8685a3905a97.png) | <img src="https://user-images.githubusercontent.com/60551230/131225622-ecf43735-c801-4d03-a3cd-1f15464c4f0e.png" alt="Custom RPC - Settings" style="zoom:67%;" /> |
+
+<br/><br/>
+<br/><br/>
+
+## [Play on Spotify](https://github.com/VenPlugs/PowercordPlayOnSpotify)
+
+A powercord plugin that Adds Play/Queue buttons to messages  containing spotify embeds. Clicking them will play or queue the songs on Spotify instead of playing the stupid preview in discord
+
+Supports songs, albums or playlists. Queue is only available for songs.
+
+![Play on Spotify](https://user-images.githubusercontent.com/60551230/131226046-b2c592e2-685e-4fff-aa9a-36c9f553e884.png)
+
+<br/><br/>
+<br/><br/>
+
+## [Open In App](https://github.com/Killerjet101/open-in-app)
+
+A Powercord plugin that allows you to open links to their appropriate apps!
+
+### Supported Apps
+- [x] Spotify
+- [x] Tidal
+- [x] Steam
+
+<br/><br/>
+<br/><br/>
+
+## [Multi Uploads](https://github.com/Oocrop/multi-uploads)
+
+Allows you to upload multiple files in a single message.
+
+![Multi Upload](https://user-images.githubusercontent.com/60551230/131227008-8a7500e2-8419-46f5-80fd-de41e75516e3.png)
+
+<br/><br/>
+<br/><br/>
